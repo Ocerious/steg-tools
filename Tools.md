@@ -30,7 +30,7 @@ Useful commands:
 
 ## Stegsolve
 
-In other cases, a message or text is hidden within the image, and in order to see it, you must use colour filters or play with the colour levels. GIMP, Photoshop, or any other image altering software can be used, however stegsolve makes things easier. It's a little Java program that lets you apply a variety of colour filters to photos. Personally, I find it quite beneficial.
+In other cases, a message or text is hidden within the image, and in order to see it, you must use colour filters or play with the colour levels. GIMP, Photoshop, or any other image altering software can be used, however stegsolve makes things easier. It's a little Java program that lets you apply a variety of colour filters to photos. Personally, I find it quite beneficial. </br>
 Stegsolve is available on [github](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve).
 
 ## Strings
