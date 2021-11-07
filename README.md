@@ -1,2 +1,2 @@
 # Steg-Tools
-A list of useful tools and resources
+Steganography - A list of useful tools and resources
